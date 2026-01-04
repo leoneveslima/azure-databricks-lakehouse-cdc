@@ -10,7 +10,7 @@ Simula um banco de dados de Clientes que sofre atualizações frequentes (mudan�
 
 Este projeto implementa uma arquitetura **Lakehouse moderna** no Azure Databricks, simulando um cenário real de ingestão e processamento de dados de clientes com mudança de histórico (**SCD Type 2**).
 
-![Painel Final de Monitoramento](/Workspace/Users/leonevesllima@gmail.com/azure-databricks-lakehouse-cdc/img/final_dashboard.jpg)
+![Painel Final de Monitoramento]([/Workspace/Users/leonevesllima@gmail.com/azure-databricks-lakehouse-cdc/img/final_dashboard.jpg](https://github.com/leoneveslima/azure-databricks-lakehouse-cdc/blob/feat/orchestration-and-structure/img/final_dashboard.jpg?raw=true))
 
 ## 🏗️ Arquitetura da Solução
 
